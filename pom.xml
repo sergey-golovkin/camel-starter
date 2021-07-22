@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>arina.camel</groupId>
 	<artifactId>camel-starter</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<name>camel-starter</name>
 	<description>Camel Application for Spring Boot</description>
 	<properties>
@@ -34,7 +34,7 @@
 	</dependencyManagement>
 	
 	<dependencies>
-		<dependency><groupId>org.apache.camel.springboot</groupId><artifactId>camel-spring-boot-xml-starter</artifactId><version>${camel.version}</version></dependency>
+   		<dependency><groupId>org.apache.camel.springboot</groupId><artifactId>camel-spring-boot-xml-starter</artifactId><version>${camel.version}</version></dependency>
 	</dependencies>
 
 	<build>

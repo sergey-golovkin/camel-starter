@@ -30,6 +30,7 @@ HELP.md
 
 ##my build
 _build.cmd
+_build.sh
 _version.cmd 
 _commit.cmd
 _tag.cmd
